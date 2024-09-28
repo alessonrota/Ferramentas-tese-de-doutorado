@@ -1,4 +1,4 @@
-# Projeto de Hermeneutica historiador com Linguagens Computacionais
+# Projeto de Hermeneutica historiadora com Linguagens Computacionais
 
 Este projeto contém linguagens computacionais desenvolvidas para serem utilizadas em interpretadores Python. Existem duas versões para cada conjunto de linguagens computacionais:
 
