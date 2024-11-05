@@ -7,11 +7,11 @@ Este projeto contém linguagens computacionais desenvolvidas para serem utilizad
 
 # Descrição dos códigos
 
-O itens de 1 a 3 são deficados a coleta em acervos históricos digitalizados
-O item 4 é para criar pdf's com caracteres reconhecidos a partir de imagens
-O item 5 é para reconhecer ocr em pdf's
-O item 6 é para montar o banco de dados a partir dos pdf's, criando rótulos a partir intelectuais e conceitos
-O item 7 é para a construção de matrizes, para análises de similaridade
+ -  O itens de 1 a 3 são deficados a coleta em acervos históricos digitalizados
+ -  O item 4 é para criar pdf's com caracteres reconhecidos a partir de imagens
+ -  O item 5 é para reconhecer ocr em pdf's
+ -  O item 6 é para montar o banco de dados a partir dos pdf's, criando rótulos a partir intelectuais e conceitos
+ -  O item 7 é para a construção de matrizes, para análises de similaridade
 
 
 ## Como Usar
