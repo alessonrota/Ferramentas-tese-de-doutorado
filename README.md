@@ -22,5 +22,5 @@ Este projeto contém linguagens computacionais desenvolvidas para serem utilizad
 2. Abra o arquivo com um interpretador Python e siga as instruções do documentos (  Instalação de pré-requisitos e configuração das bases de dados)
 
 ## Alternatativamente é possível utilizar o conjunto de linguagens computacionais no GoogleColab.
-https://colab.research.google.com/drive/1Yul3ohEIOYYzisBT2FxVWBUYEmzOxwpQ
-https://colab.research.google.com/drive/1DYE8FC4S9VDrlSM2Nf54mZnnPX7IpMDZ   
+- https://colab.research.google.com/drive/1Yul3ohEIOYYzisBT2FxVWBUYEmzOxwpQ
+- https://colab.research.google.com/drive/1DYE8FC4S9VDrlSM2Nf54mZnnPX7IpMDZ   
