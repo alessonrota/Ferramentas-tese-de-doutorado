@@ -5,27 +5,13 @@ Este projeto contém linguagens computacionais desenvolvidas para serem utilizad
 - Uma versão com representações visuais (imagens).
 - Outra versão contendo apenas as saídas das execuções dos códigos.
 
-## Capítulo 1
+# Descrição dos códigos
 
-No capítulo 1, você encontrará:
-- O buscador desenvolvido.
-- O indexador de resultados em bases de dados.
-- Algumas alternativas para a interpretação dos dados.
-
-## Capítulo 2
-- Código para clonar revistas da Hemeroteca Digital
-- Código para Reconhecimento Ótico de Caractere
-
-## Capítulo 3, 4, 5, 6
-- Classiicações por modelos de inteligência Artificial
-- Intepretação de tendências
-
-Capítulo 4
-- Análise de similaridade para traduções
-
-Capítulo 7
-- Comparação de acervos
-- Análise de similaridade pelo algorítimos de comunidades
+O itens de 1 a 3 são deficados a coleta em acervos históricos digitalizados
+O item 4 é para criar pdf's com caracteres reconhecidos a partir de imagens
+O item 5 é para reconhecer ocr em pdf's
+O item 6 é para montar o banco de dados a partir dos pdf's, criando rótulos a partir intelectuais e conceitos
+O item 7 é para a construção de matrizes, para análises de similaridade
 
 
 ## Como Usar
