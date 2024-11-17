@@ -9,12 +9,36 @@ Bem-vindo(a) ao projeto de hermenêutica historiadora, que explora o uso de ling
 
 Os códigos estão organizados em diferentes módulos, de acordo com a funcionalidade:
 
-1. **Coleta de Acervos**: Scripts para coleta de dados em acervos históricos digitalizados.
-2. **Processamento de PDF**: Ferramentas para criação de PDFs a partir de imagens, com reconhecimento de caracteres.
-3. **Reconhecimento de OCR**: Scripts para reconhecimento óptico de caracteres (OCR) em PDFs.
-4. **Montagem do Banco de Dados**: Ferramentas para estruturar um banco de dados a partir dos PDFs, com rótulos de intelectuais e conceitos.
-5. **Construção de Matrizes de Similaridade**: Scripts para criação de matrizes que permitem análise de similaridade.
-6. **Classificação de Conceitos com IA**: Ferramentas para classificação de conceitos utilizando Inteligência Artificial.
+1. **Coleta de Arquivos Históricos Digitalizados**:
+   - Scripts para coleta de dados em acervos históricos digitalizados.
+
+2. **Coleta de Arquivos Históricos Digitalizados**:
+   - Ferramentas para processamento de PDFs em acervos.
+
+3. **Coleta de Arquivos Históricos Digitalizados**:
+   - Scripts para reconhecimento óptico de caracteres (OCR) em PDFs.
+
+4. **Criação de PDFs Pesquisáveis (OCRizados) a partir de PDFs**:
+   - Ferramentas para aplicar OCR em PDFs, tornando-os pesquisáveis.
+
+5. **Criação de PDFs Pesquisáveis a partir de Imagens**:
+   - Ferramentas para transformar imagens digitalizadas em PDFs pesquisáveis.
+
+6. **Buscador e Indexador**:
+   - Scripts para busca e indexação eficiente de documentos processados.
+
+7. **Construção de Matrizes de Coocorrência para Intelectuais e Conceitos**:
+   - Ferramentas para criar matrizes que relacionam intelectuais e conceitos.
+
+8. **Classificação com Inteligência Artificial (IA)**:
+   - Scripts para classificação de conceitos utilizando técnicas avançadas de Inteligência Artificial.
+
+9. **Construção de Mapas e Redes a partir de Bases de Dados**:
+   - Ferramentas para criar mapas e redes visuais utilizando informações estruturadas em bases de dados.
+
+
+
+
 
 ## Como Usar
 
