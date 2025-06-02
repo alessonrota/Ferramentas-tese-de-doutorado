@@ -36,6 +36,7 @@ Os códigos estão organizados em diferentes módulos, de acordo com a funcional
 9. **Construção de Mapas e Redes a partir de Bases de Dados**:
    - Ferramentas para criar mapas e redes visuais utilizando informações estruturadas em bases de dados.
 10. **Algoritmo de transcrição de áudio ou vídeo para texto, desenvolvido para as pesquisas sobre Covid-19 do CHD Unicamp**
+11. Algorítimo para treinamento de LLM do tipo Transformer (disponibilizado em breve, até julho de 2025)
 
 
 
