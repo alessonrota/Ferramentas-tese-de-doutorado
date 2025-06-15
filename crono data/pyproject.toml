@@ -1,0 +1,25 @@
+
+[tool.poetry]
+name = "cronodata"
+version = "0.1.0"
+description = "Pipeline para acervos históricos — coleta a NLP"
+authors = ["Alesson Rota <alesson@example.com>"]
+packages = [{ include = "cronodata" }]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2"
+typer = { extras = ["all"], version = "^0.12" }
+ocrmypdf = "^15.2"
+pytesseract = "^0.3"
+langchain = "^0.2.0"
+sentence-transformers = "^3.0"
+whoosh = "^2.7"
+geopandas = "^0.15"
+folium = "^0.16"
+streamlit = "^1.35"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0"
+black = "^24.4"
+pre-commit = "^3.7"

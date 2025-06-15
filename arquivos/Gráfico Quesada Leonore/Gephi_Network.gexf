@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-19">
+    <creator>NetworkX 2.8.8</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Andrade Coelho, Alejandro" label="Quito" />
+      <node id="Andrea, Miguel de (Cura Rector de San Miguel Arcángel)" label="Buenos Aires" />
+      <node id="Astete Chocano, Santiago" label="Cuzco, Perú" />
+      <node id="Buck, Fritz (Juwelier und Sammler)" label="La Paz" />
+      <node id="Ballivian del Castillo, Adolfo (Legación de Bolivia)" label="La Paz/London" />
+      <node id="Córdoba, Abelardo A. (Comisaría)" label="Buenos Aires" />
+      <node id="Dávila, Vicente (Archivo Nacional)" label="Caracas" />
+      <node id="Delgado, Luis A. (Comisionado para estudiar la industria carbonífera)" label="Oyón, Perú" />
+      <node id="García, Rómulo A. (Tipografía 'La Semana')" label="Caracas" />
+      <node id="García Calderón, Ventura (Editorial Franco-Ibero-Americana)" label="Paris" />
+      <node id="Gómez Restrepo, Antonio (Ministerio de Relaciones Exteriores)" label="Bogotá" />
+      <node id="Gutiérrez de Quintanilla, Emilio (Presidente del Instituto Histórico del Perú)" label="Lima" />
+      <node id="Levene, Ricardo (Historiador)" label="Buenos Aires" />
+      <node id="Levillier, Roberto (Embajada Argentina)" label="Madrid/Lima" />
+      <node id="Limache, Eladio" label="Arequipa, Perú" />
+      <node id="López Contreras, Eleazar (General)" label="Caracas" />
+      <node id="Machado, José E. (Director de la Biblioteca Nacional)" label="Caracas" />
+      <node id="Mayer de Zulen, Dora" label="Callao, Perú" />
+      <node id="Mitre, Adolfo (Escritor, 1859-84)" label="Buenos Aires" />
+      <node id="Pauli, A. (Deutsche Gesandtschaft)" label="Buenos Aires" />
+      <node id="Pazmiño V., Carlos E." label="Quito" />
+      <node id="Peralta, Juan H. (Abogado)" label="Vinces, Ecuador" />
+      <node id="Pereira Montez, (?)" label="Caracas" />
+      <node id="Pérez Velasco, Manuel" label="La Paz" />
+      <node id="Portal, Ismael" label="Lima" />
+      <node id="Posnansky, Arturo (Sociedad Geográfica)" label="La Paz" />
+      <node id="Sabourin, Raúl (Bibliotecario)" label="Buenos Aires" />
+      <node id="Salmón Ballivián, José" label="La Paz" />
+      <node id="Santa Cruz, Oscar de (Coronel)" label="La Paz" />
+      <node id="Sañudo, José Rafael" label="Pasto, Colombia" />
+      <node id="Oswald Spengler" label="Munique" />
+      <node id="Ernesto Quesada" label="Ernesto Quesada" />
+      <node id="Leonore Niessen-Deiters" label="Leonore Niessen-Deiters" />
+    </nodes>
+    <edges>
+      <edge source="Ernesto Quesada" target="Leonore Niessen-Deiters" id="0" weight="76" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,1 @@
+"""Submódulo collectors (a implementar)"""

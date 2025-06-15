@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-19">
+    <creator>NetworkX 2.8.8</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Ernesto Quesada/Leonore Niessen-Deiters" label="Ernesto Quesada/Leonore Niessen-Deiters" />
+      <node id="Andrade Coelho, Alejandro" label="Andrade Coelho, Alejandro" />
+      <node id="Andrea, Miguel de (Cura Rector de San Miguel Arcángel)" label="Andrea, Miguel de (Cura Rector de San Miguel Arcángel)" />
+      <node id="Astete Chocano, Santiago" label="Astete Chocano, Santiago" />
+      <node id="Buck, Fritz (Juwelier und Sammler)" label="Buck, Fritz (Juwelier und Sammler)" />
+      <node id="Ballivian del Castillo, Adolfo (Legación de Bolivia)" label="Ballivian del Castillo, Adolfo (Legación de Bolivia)" />
+      <node id="Córdoba, Abelardo A. (Comisaría)" label="Córdoba, Abelardo A. (Comisaría)" />
+      <node id="Dávila, Vicente (Archivo Nacional)" label="Dávila, Vicente (Archivo Nacional)" />
+      <node id="Delgado, Luis A. (Comisionado para estudiar la industria carbonífera)" label="Delgado, Luis A. (Comisionado para estudiar la industria carbonífera)" />
+      <node id="García, Rómulo A. (Tipografía 'La Semana')" label="García, Rómulo A. (Tipografía 'La Semana')" />
+      <node id="García Calderón, Ventura (Editorial Franco-Ibero-Americana)" label="García Calderón, Ventura (Editorial Franco-Ibero-Americana)" />
+      <node id="Gómez Restrepo, Antonio (Ministerio de Relaciones Exteriores)" label="Gómez Restrepo, Antonio (Ministerio de Relaciones Exteriores)" />
+      <node id="Gutiérrez de Quintanilla, Emilio (Presidente del Instituto Histórico del Perú)" label="Gutiérrez de Quintanilla, Emilio (Presidente del Instituto Histórico del Perú)" />
+      <node id="Levene, Ricardo (Historiador)" label="Levene, Ricardo (Historiador)" />
+      <node id="Levillier, Roberto (Embajada Argentina)" label="Levillier, Roberto (Embajada Argentina)" />
+      <node id="Limache, Eladio" label="Limache, Eladio" />
+      <node id="López Contreras, Eleazar (General)" label="López Contreras, Eleazar (General)" />
+      <node id="Machado, José E. (Director de la Biblioteca Nacional)" label="Machado, José E. (Director de la Biblioteca Nacional)" />
+      <node id="Mayer de Zulen, Dora" label="Mayer de Zulen, Dora" />
+      <node id="Mitre, Adolfo (Escritor, 1859-84)" label="Mitre, Adolfo (Escritor, 1859-84)" />
+      <node id="Pauli, A. (Deutsche Gesandtschaft)" label="Pauli, A. (Deutsche Gesandtschaft)" />
+      <node id="Pazmiño V., Carlos E." label="Pazmiño V., Carlos E." />
+      <node id="Peralta, Juan H. (Abogado)" label="Peralta, Juan H. (Abogado)" />
+      <node id="Pereira Montez, (?)" label="Pereira Montez, (?)" />
+      <node id="Pérez Velasco, Manuel" label="Pérez Velasco, Manuel" />
+      <node id="Portal, Ismael" label="Portal, Ismael" />
+      <node id="Posnansky, Arturo (Sociedad Geográfica)" label="Posnansky, Arturo (Sociedad Geográfica)" />
+      <node id="Sabourin, Raúl (Bibliotecario)" label="Sabourin, Raúl (Bibliotecario)" />
+      <node id="Salmón Ballivián, José" label="Salmón Ballivián, José" />
+      <node id="Santa Cruz, Oscar de (Coronel)" label="Santa Cruz, Oscar de (Coronel)" />
+      <node id="Sañudo, José Rafael" label="Sañudo, José Rafael" />
+      <node id="Oswald Spengler" label="Oswald Spengler" />
+    </nodes>
+    <edges>
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Andrade Coelho, Alejandro" id="0" weight="15" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Andrea, Miguel de (Cura Rector de San Miguel Arcángel)" id="1" weight="4" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Astete Chocano, Santiago" id="2" weight="5" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Buck, Fritz (Juwelier und Sammler)" id="3" weight="9" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Ballivian del Castillo, Adolfo (Legación de Bolivia)" id="4" weight="2" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Córdoba, Abelardo A. (Comisaría)" id="5" weight="1" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Dávila, Vicente (Archivo Nacional)" id="6" weight="6" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Delgado, Luis A. (Comisionado para estudiar la industria carbonífera)" id="7" weight="13" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="García, Rómulo A. (Tipografía 'La Semana')" id="8" weight="2" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="García Calderón, Ventura (Editorial Franco-Ibero-Americana)" id="9" weight="1" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Gómez Restrepo, Antonio (Ministerio de Relaciones Exteriores)" id="10" weight="24" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Gutiérrez de Quintanilla, Emilio (Presidente del Instituto Histórico del Perú)" id="11" weight="1" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Levene, Ricardo (Historiador)" id="12" weight="1" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Levillier, Roberto (Embajada Argentina)" id="13" weight="14" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Limache, Eladio" id="14" weight="5" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="López Contreras, Eleazar (General)" id="15" weight="3" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Machado, José E. (Director de la Biblioteca Nacional)" id="16" weight="3" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Mayer de Zulen, Dora" id="17" weight="4" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Mitre, Adolfo (Escritor, 1859-84)" id="18" weight="1" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Pauli, A. (Deutsche Gesandtschaft)" id="19" weight="1" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Pazmiño V., Carlos E." id="20" weight="2" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Peralta, Juan H. (Abogado)" id="21" weight="15" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Pereira Montez, (?)" id="22" weight="1" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Pérez Velasco, Manuel" id="23" weight="1" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Portal, Ismael" id="24" weight="1" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Posnansky, Arturo (Sociedad Geográfica)" id="25" weight="45" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Sabourin, Raúl (Bibliotecario)" id="26" weight="1" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Salmón Ballivián, José" id="27" weight="4" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Santa Cruz, Oscar de (Coronel)" id="28" weight="3" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Sañudo, José Rafael" id="29" weight="3" />
+      <edge source="Ernesto Quesada/Leonore Niessen-Deiters" target="Oswald Spengler" id="30" weight="76" />
+    </edges>
+  </graph>
+</gexf>
