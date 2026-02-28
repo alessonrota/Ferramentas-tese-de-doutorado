@@ -3,8 +3,7 @@
 
 Cronodata integra coleta, OCR, indexação, NLP e visualização de acervos
 históricos digitalizados. Foi concebido a partir dos scripts da tese de
-doutorado de Alesson Rota (IFCH/Unicamp) e evoluiu para um pacote Python
-modular e instalável.
+doutorado de Alesson Rota (IFCH/Unicamp).
 
 ## Visão rápida
 
@@ -31,5 +30,4 @@ docs/              # documentação MkDocs
 - DOI 10.25824/redu/C2ILA2
 
 ## Licença
-
-MIT
+GNU
